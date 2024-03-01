@@ -1,4 +1,4 @@
-# credit_risk
+# Credit risk analysis
 
 The final project for my master's degree aims to identify the factors that determine the transition to non-performing loans (NPLs) in credit positions.
 
