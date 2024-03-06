@@ -8,5 +8,15 @@ The analysis conducted has identified four factors that impact the transition to
  - low income
  - high debt percentage
 
-# Dataset
+## Dataset
 https://www.kaggle.com/datasets/laotse/credit-risk-dataset
+
+## Libraries
+
+|Name     | Link   | 
+|---------|-----------------|
+| Pandas | https://pandas.pydata.org/|
+| Seaborn | https://seaborn.pydata.org/|
+| Matplotlib | https://matplotlib.org/ |
+| Numpy | https://numpy.org/ |
+| Scipy | https://docs.scipy.org/doc/scipy/reference/stats.html |
